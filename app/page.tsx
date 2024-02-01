@@ -17,8 +17,7 @@ export default function Home() {
           <SearchBar/>
         </div>
         <div className='home__filters-container'>
-            <CustomFilter title="fuel"/>
-            <CustomFilter title="year"/>
+            
 
         </div>
       </div>
